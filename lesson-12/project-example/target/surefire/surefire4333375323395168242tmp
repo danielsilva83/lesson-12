@@ -1,0 +1,12 @@
+#surefire
+#Thu May 02 12:59:36 BRT 2019
+jpda.address=50442
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+file.encoding=UTF-8
+jpda.listen=true
+forkMode=once
+user.dir=C\:\\Users\\danie\\Documents\\arquitetura\\2019-01-master (3)\\2019-01-master\\lesson-12\\project-example
+localRepository=C\:\\Users\\danie\\.m2\\repository
+test=br.edu.utfpr.dao.TestaPaisDAO
+basedir=C\:\\Users\\danie\\Documents\\arquitetura\\2019-01-master (3)\\2019-01-master\\lesson-12\\project-example
+maven.surefire.debug=-Xdebug -Xrunjdwp\:transport\=dt_socket,server\=n,address\=50442
